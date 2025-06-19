@@ -42,7 +42,7 @@ Upon finishing this project, participants will:
   Figma for UI/UX design
 
 
-## 🛠️ Features Overview
+## 🛠️ Feature Breakdown
 1. ### API Documentation
    - **OpenAPI Standard**: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
    - **Django REST Framework**: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
@@ -238,7 +238,7 @@ Identifying design properties in a mockup is essential for several reasons:
 
 Each component will be designed for reusability and consistency across the application.
 
-## Team Rolse
+## Team Roles
 - **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.
 - **Database Administrator**: Manages database design, indexing, and optimizations.
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
